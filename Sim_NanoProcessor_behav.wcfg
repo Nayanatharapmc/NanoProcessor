@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Sim_NanoProcessor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Sim_NanoProcessor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="68363637fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="47" />
+   <wvobject fp_name="/Sim_NanoProcessor/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/Carry" type="logic">
+      <obj_property name="ElementShortName">Carry</obj_property>
+      <obj_property name="ObjectShortName">Carry</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/R7" type="array">
+      <obj_property name="ElementShortName">R7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R7[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/Display_7_Seg" type="array">
+      <obj_property name="ElementShortName">Display_7_Seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">Display_7_Seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/Anode_activate" type="array">
+      <obj_property name="ElementShortName">Anode_activate[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Anode_activate[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/A" type="array">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/B" type="array">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/M" type="logic">
+      <obj_property name="ElementShortName">M</obj_property>
+      <obj_property name="ObjectShortName">M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/S" type="array">
+      <obj_property name="ElementShortName">S[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/carry" type="logic">
+      <obj_property name="ElementShortName">carry</obj_property>
+      <obj_property name="ObjectShortName">carry</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA0_S" type="logic">
+      <obj_property name="ElementShortName">FA0_S</obj_property>
+      <obj_property name="ObjectShortName">FA0_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA0_C" type="logic">
+      <obj_property name="ElementShortName">FA0_C</obj_property>
+      <obj_property name="ObjectShortName">FA0_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA1_S" type="logic">
+      <obj_property name="ElementShortName">FA1_S</obj_property>
+      <obj_property name="ObjectShortName">FA1_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA1_C" type="logic">
+      <obj_property name="ElementShortName">FA1_C</obj_property>
+      <obj_property name="ObjectShortName">FA1_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA2_S" type="logic">
+      <obj_property name="ElementShortName">FA2_S</obj_property>
+      <obj_property name="ObjectShortName">FA2_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA2_C" type="logic">
+      <obj_property name="ElementShortName">FA2_C</obj_property>
+      <obj_property name="ObjectShortName">FA2_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA3_S" type="logic">
+      <obj_property name="ElementShortName">FA3_S</obj_property>
+      <obj_property name="ObjectShortName">FA3_S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/FA3_C" type="logic">
+      <obj_property name="ElementShortName">FA3_C</obj_property>
+      <obj_property name="ObjectShortName">FA3_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/B4" type="logic">
+      <obj_property name="ElementShortName">B4</obj_property>
+      <obj_property name="ObjectShortName">B4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/B5" type="logic">
+      <obj_property name="ElementShortName">B5</obj_property>
+      <obj_property name="ObjectShortName">B5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/B6" type="logic">
+      <obj_property name="ElementShortName">B6</obj_property>
+      <obj_property name="ObjectShortName">B6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/B7" type="logic">
+      <obj_property name="ElementShortName">B7</obj_property>
+      <obj_property name="ObjectShortName">B7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/s0" type="logic">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/s1" type="logic">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/s2" type="logic">
+      <obj_property name="ElementShortName">s2</obj_property>
+      <obj_property name="ObjectShortName">s2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/s3" type="logic">
+      <obj_property name="ElementShortName">s3</obj_property>
+      <obj_property name="ObjectShortName">s3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Add_Sub/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Reg_Enable" type="array">
+      <obj_property name="ElementShortName">Reg_Enable[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_Enable[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/D" type="array">
+      <obj_property name="ElementShortName">D[3:0]</obj_property>
+      <obj_property name="ObjectShortName">D[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q0" type="array">
+      <obj_property name="ElementShortName">Q0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q1" type="array">
+      <obj_property name="ElementShortName">Q1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q2" type="array">
+      <obj_property name="ElementShortName">Q2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q3" type="array">
+      <obj_property name="ElementShortName">Q3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q4" type="array">
+      <obj_property name="ElementShortName">Q4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q4[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q5" type="array">
+      <obj_property name="ElementShortName">Q5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q5[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q6" type="array">
+      <obj_property name="ElementShortName">Q6[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q6[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Q7" type="array">
+      <obj_property name="ElementShortName">Q7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q7[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Reg_Bank0/Y" type="array">
+      <obj_property name="ElementShortName">Y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Program_Counter/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Program_Counter/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Program_Counter/Count_in" type="array">
+      <obj_property name="ElementShortName">Count_in[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Count_in[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim_NanoProcessor/uut/Program_Counter/Count_out" type="array">
+      <obj_property name="ElementShortName">Count_out[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Count_out[2:0]</obj_property>
+   </wvobject>
+</wave_config>

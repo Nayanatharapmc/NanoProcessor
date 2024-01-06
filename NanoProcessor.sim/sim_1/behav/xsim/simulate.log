@@ -1,0 +1,18 @@
+Vivado Simulator 2018.1
+Time resolution is 1 ps
+Error: Incorrect instruction
+Time: 10 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 20 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 30 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 40 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 50 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 60 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 70 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
+Error: Incorrect instruction
+Time: 80 ns  Iteration: 0  Process: /Sim_Prog_Rom/Stimulus_process  File: C:/Users/HP/NanoProcessor/NanoProcessor/NanoProcessor.srcs/sim_1/new/Sim_Prog_Rom.vhd
